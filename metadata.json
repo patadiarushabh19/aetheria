@@ -1,0 +1,6 @@
+{
+  "name": "Aetheria Infrastructure Operations",
+  "description": "Enterprise Infrastructure Operating Partner for SaaS, startups, digital agencies, and technology scaleups. High-availability SRE, cloud architecture, security compliance, and 24/7 ops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
